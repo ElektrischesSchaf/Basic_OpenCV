@@ -5,7 +5,7 @@
 ![Distortion_Matrices](https://github.com/ElektrischesSchaf/Basic_OpenCV/blob/master/SnapShots/Distortion_Matrices.png)
 ![Extrinsic_Matrices](https://github.com/ElektrischesSchaf/Basic_OpenCV/blob/master/SnapShots/Extrinsic_Matrics.png)
 ![Argument_Reality](https://github.com/ElektrischesSchaf/Basic_OpenCV/blob/master/SnapShots/Argument_Reality.png)
-![L](https://github.com/ElektrischesSchaf/Basic_OpenCV/blob/master/MFCApplication1/imL.png)![R](https://github.com/ElektrischesSchaf/Basic_OpenCV/blob/master/MFCApplication1/imR.png)![disparity](https://github.com/ElektrischesSchaf/Basic_OpenCV/blob/master/SnapShots/disparity.png)
+![L](https://github.com/ElektrischesSchaf/Basic_OpenCV/blob/master/MFCApplication1/imL.png=200x)![R](https://github.com/ElektrischesSchaf/Basic_OpenCV/blob/master/MFCApplication1/imR.png=200x)![disparity](https://github.com/ElektrischesSchaf/Basic_OpenCV/blob/master/SnapShots/disparity.png=200x)
 ![L-R](https://github.com/ElektrischesSchaf/Basic_OpenCV/blob/master/SnapShots/With_L-R.png)
 ![without_L-R](https://github.com/ElektrischesSchaf/Basic_OpenCV/blob/master/SnapShots/without_L-R.png)
 ![mark_difference](https://github.com/ElektrischesSchaf/Basic_OpenCV/blob/master/SnapShots/mark_difference.png)
